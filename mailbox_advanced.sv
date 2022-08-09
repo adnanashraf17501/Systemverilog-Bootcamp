@@ -1,3 +1,9 @@
+--------------------------------------@COPYRIGHTS----------------------------------------------------------
+--------------------------------------AUTHOR : ADNAN ASHRAF------------------------------------------------
+--------------------------------------Design verification Engineer-----------------------------------------
+--------------------------------------Email:adnan.workday.amd@gmail.com------------------------------------
+--------------------------------------Contact : +91 9682512130---------------------------------------------
+--------------------------------------Free Copyrights : Anyone can use, reimplement and modify the code as per his/her need---------------------------------
 //Mailboxes have internal semaphores
 //Tasks like put / get which are waiting
 //used to avoid overflow/underflow conditions for a buffer 
